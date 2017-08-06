@@ -1,0 +1,14 @@
+.gradle
+.project
+.metadata
+.classpath
+.loadpath
+build.properties
+*.launch
+
+out.log
+
+.settings/
+bin/
+build/
+run/
